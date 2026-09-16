@@ -1,0 +1,23 @@
+{
+  "repo": "mediahuman-youtube-to-mp3-full",
+  "product": "MediaHuman YouTube to MP3 Full",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "audio-convert",
+  "topics": [
+    "mediahuman-converter",
+    "audio-queue-desk",
+    "tag-cover-windows",
+    "mediahuman-2026",
+    "how-to-install-mediahuman",
+    "mediahuman-desktop-package",
+    "m4a-mp3-suite",
+    "batch-link-tools",
+    "archive-audio-desk",
+    "mediahuman-youtube-suite"
+  ],
+  "site": "toolix.me"
+}
